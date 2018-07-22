@@ -1,0 +1,9 @@
+{
+  "docs": {
+    "Getting Started": ["installation", "quickstart"],
+    "Guides": ["custom-trigger", "example-kafka", "example-nsq"]
+  },
+  "docs-other": {
+    "v1 API": ["api", "v1-triggerd-cli", "v1-triggerd-k8s"]
+  }
+}

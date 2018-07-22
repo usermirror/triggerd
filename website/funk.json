@@ -1,0 +1,7 @@
+{
+  "name": "triggerd-website",
+  "options": {
+    "public": true,
+    "port": 80
+  }
+}

@@ -1,0 +1,49 @@
+/* your custom css */
+
+.fixedHeaderContainer .logo {
+  height: 24px;
+}
+
+.docs-visual {
+  display: block;
+  margin: 0 auto;
+}
+
+.try-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.try-item {
+  flex: 1;
+}
+
+p > a,
+p > a:hover,
+p > a:active,
+p > a:focus {
+  text-decoration: underline;
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
+  
+}
+
+@media only screen and (min-width: 1024px) {
+}
+
+@media only screen and (max-width: 1023px) {
+  .docs-visual {
+    height: 200px;
+  }
+
+  .projectTitle {
+    margin: 0;
+  }
+}
+
+@media only screen and (min-width: 1400px) {
+}
+
+@media only screen and (min-width: 1500px) {
+}
